@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 , Soy Candelario Ramos Jiménez</h1><h3 align="center">Un entusiasta desarrollador frontend</h3>
+<h1 align="center">Hola 👋 , Soy Candelario Ramos Jiménez</h1><h3 align="center">Un entusiasta Desarrollador Web</h3>
 
 
 - Actualmente estoy aprendiendo **React**- 💻 👨 Todos mis proyectos están disponibles en [https://candelarioramosj.github.io/Portafolio/](https://candelarioramosj.github.io/Portafolio/)
